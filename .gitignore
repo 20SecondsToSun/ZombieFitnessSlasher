@@ -4,7 +4,6 @@
 *.sdf
 *.opensdf
 *.uasset
-*.umap
 *.pdb
 Intermediate/
 Saved/
