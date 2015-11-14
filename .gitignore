@@ -1,0 +1,15 @@
+# Windows cruft
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.uasset
+*.umap
+*.pdb
+Intermediate/
+Saved/
+ipch/
+
+# doxygen generated files
+docs/html
+docs/doxygen/cinder.tag
